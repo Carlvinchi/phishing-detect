@@ -8,11 +8,11 @@ The project was focused on using ML Techniques to detect phishing websites
 
 - explored feature selection using mutual information gain scores and correleational matrix
 
-- explored model model optimisation using 
+- explored model optimisation using 
 
 	- SMOTE to handle imbalance dataset
 	
-	- Hyperparamter tuning using GridSearch with RepeatedStratifiedKFoldValidation
+	- Hyperparameter tuning using GridSearch with RepeatedStratifiedKFoldValidation
   
 - explored model explainability and interpretability using
 
